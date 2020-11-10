@@ -1,5 +1,5 @@
 {
-    "name": "gruelt/laravel-vue-i18n-generator2",
+    "name": "gruelt/laravel-vue-i18n-generator-2",
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
