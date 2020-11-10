@@ -3,7 +3,7 @@
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
-    "homepage": "http://github.com/martinlindhe/laravel-vue-i18n-generator2",
+    "homepage": "http://github.com/martinlindhe/laravel-vue-i18n-generator-2",
     "authors": [
         {
             "name": "GRUEL Thomas",
